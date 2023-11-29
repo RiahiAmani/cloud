@@ -1,5 +1,5 @@
 <?php
-const DB_DSN = 'mysql:host=20.62.197.185;dbname=test';
+const DB_DSN = 'mysql:host=172.203.248.248;dbname=test';
 const DB_USER = "test";
 const DB_PASS = "test";
 
