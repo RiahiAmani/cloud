@@ -1,6 +1,6 @@
 <?php
 const DB_DSN = 'mysql:host=172.203.248.248;dbname=test';
-const DB_USER = "test";
+const DB_USER = "phpmyadmin";
 const DB_PASS = "test";
 
 
